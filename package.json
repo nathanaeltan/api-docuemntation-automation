@@ -20,6 +20,9 @@
     "config": "^3.3.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "json2md": "^1.9.1",
+    "markdown-it": "^12.0.3",
+    "md-to-pdf": "^3.1.2",
     "nodemon": "^2.0.6"
   }
 }
