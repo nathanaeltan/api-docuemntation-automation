@@ -1,1 +1,1 @@
-## An Automaation tool for API documentation writing
+## An Automation tool for API documentation writing
